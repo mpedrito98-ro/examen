@@ -6,7 +6,10 @@
     @vite('resources/js/app.js')
     <title>Laravel 12 + Vue 3</title>
 </head>
+
+
 <body>
+
     <div id="app"></div>
 </body>
 </html>
