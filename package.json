@@ -20,6 +20,10 @@
         "vue-loader": "^17.4.2"
     },
     "dependencies": {
-        "vuetify": "^4.0.0-alpha.0"
+        "@mdi/font": "^7.4.47",
+        "lodash": "^4.17.21",
+        "vue-router": "^4.6.4",
+        "vuetify": "^4.0.0-alpha.0",
+        "vuex": "^4.1.0"
     }
 }
